@@ -1,0 +1,16 @@
+{
+  "name": "slack-wcs",
+  "version": "1.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "watson-developer-cloud" : "2.39.*",
+    "@slack/client": "3.14.*",
+    "moment":"*"
+  }
+}

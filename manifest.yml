@@ -1,0 +1,8 @@
+applications:
+- name: slack-wcs
+  command: node ./app.js
+  path: .
+  domain: mybluemix.net
+  host: slack-wcs
+  memory: 512M
+  instances: 1

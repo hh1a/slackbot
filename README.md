@@ -1,1 +1,1 @@
-# slackbot
+# slack-wcs
